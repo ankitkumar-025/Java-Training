@@ -9,7 +9,6 @@ public class Pattern {
                 }
 
             }
-            l
             System.out.println();
         }
     }
