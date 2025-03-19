@@ -6,7 +6,6 @@ public class Pattern {
                     System.out.print("*");
                 } else {
                     System.out.print(" ");
-                    p
                 }
 
             }
