@@ -7,7 +7,7 @@ public class Pattern13 {
 
             }
             System.out.println();
-            
+            h
         
             }
 
