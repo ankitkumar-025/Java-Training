@@ -7,7 +7,7 @@ public class Pattern12 {
                 }
                 else{
                     System.out.print(" ");
-                    o
+                    p
                 }
             }
             System.out.println();
