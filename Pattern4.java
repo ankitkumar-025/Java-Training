@@ -6,7 +6,7 @@ public class Pattern4 {
                     System.out.print("*");
                 }
                 else{
-                    System.out.print(" ");f
+                    System.out.print(" ");
                 }
             }
             System.out.println();
