@@ -6,7 +6,7 @@ public class Pattern3 {
                     System.out.print("*");
                 }
                 System.out.print(" ");
-            } c
+            } o
             System.out.println();
         }
     }
