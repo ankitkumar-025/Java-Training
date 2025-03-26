@@ -9,7 +9,7 @@ public class Pattern7 {
                     System.out.print(" ");
                 }
             }
-            System.out.println();p
+            System.out.println();
         }
     }
 }
