@@ -1,7 +1,7 @@
 public class Code {
     public static void main(String[] args) {
         Employee obj=new Employee(101,"Ankit",35000);
-        System.out.print(obj);
+        System.out.print(obj);s
     }
 }
 class Employee{
