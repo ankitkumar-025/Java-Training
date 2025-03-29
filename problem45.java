@@ -19,7 +19,7 @@ public class problem45 {
     }
     public static int[] returnarray(int[] arr, int x) {
         int[] arr1 = new int[x];
-        for (int i = 0; i < x; i++) {f
+        for (int i = 0; i < x; i++) {
             arr1[i] = arr[x - 1 - i];
         }
         return arr1;
