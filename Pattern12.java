@@ -10,7 +10,7 @@ public class Pattern12 {
                     
                 }
             }
-            System.out.println();p
+            System.out.println();
         }
     }
 }
