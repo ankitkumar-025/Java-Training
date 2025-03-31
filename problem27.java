@@ -8,7 +8,7 @@ public class problem27 {
         System.out.print("Enter the No. to check :");
         int x = sc.nextInt();
         if ((x & 1) == 1){
-            System.out.println("ODD");
+            System.out.println("ODD");h
         }else{
             System.out.println("EVEN");
         }
