@@ -4,7 +4,7 @@ public class Pattern19 {
             for(int j=1;j<=i;j++){
                 System.out.print("*");
             }
-            System.out.println();o
+            System.out.println();
         }
     }
 }
