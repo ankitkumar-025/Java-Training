@@ -5,7 +5,7 @@ public class Pattern13 {
             {
                 System.out.print(j);
 
-            }xxa
+            }xxaa
             System.out.println();
             
         
