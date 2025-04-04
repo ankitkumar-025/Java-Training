@@ -6,5 +6,5 @@ public class Pattern15 {
             }
             System.out.println();
         }
-    }y
+    }
 }
