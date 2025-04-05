@@ -6,6 +6,6 @@ public class Pattern18 {
             }
             System.out.println();
         }po
-    }h
+    }ho
     
 }
