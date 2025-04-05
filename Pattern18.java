@@ -5,7 +5,7 @@ public class Pattern18 {
                 System.out.print("*");
             }
             System.out.println();
-        }po
-    }ho
+        }
+    }
     
 }
