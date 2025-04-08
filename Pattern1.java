@@ -8,7 +8,7 @@ public class Pattern1 {
                     System.out.print(" ");
                 }
 yy
-             
+         u    
             }
             System.out.println();
         }
