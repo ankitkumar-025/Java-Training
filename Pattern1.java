@@ -7,7 +7,7 @@ public class Pattern1 {
                 } else {
                     System.out.print(" ");
                 }
-yy
+yyj
          u    
             }
             System.out.println();
