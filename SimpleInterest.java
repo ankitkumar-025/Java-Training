@@ -5,7 +5,7 @@ public class SimpleInterest {
         Scanner sc =new Scanner(System.in);
         System.out.print("Enter Principle Amount:");
         double p=sc.nextDouble();
-        System.out.print("Enter Rate:");
+        System.out.print("Enter Rate:");i
         int r=sc.nextInt();
         System.out.print("Enter Time:" );
         int t=sc.nextInt();
