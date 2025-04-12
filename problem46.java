@@ -7,7 +7,7 @@ public class problem46 {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter the length : ");
         int x = sc.nextInt();
-        int arr[]= new int[x];
+        int arr[]= new int[x];y
         for(int i=0;i<x;i++){
             arr[i]=sc.nextInt();
         }
