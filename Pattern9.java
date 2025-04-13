@@ -7,7 +7,7 @@ public class Pattern9 {
                     System.out.print(" *");
                 }
                 else{
-                    System.out.print("  ");  ccss
+                    System.out.print("  ");  
                 }
             }
             System.out.println();
