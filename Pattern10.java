@@ -6,7 +6,7 @@ public class Pattern10 {
                     System.out.print(" *");
                 }
                 else{
-                    System.out.print("  ");bba
+                    System.out.print("  ");bbaa
                 }
             }
             System.out.println();
