@@ -5,7 +5,7 @@ public class Practice {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter the principle:");
         float p = sc.nextFloat();
-        System.out.print("Enter the time :");cddasss
+        System.out.print("Enter the time :");
         float t = sc.nextFloat();
         System.out.print("Enter the rate :");
         float r = sc.nextFloat();
