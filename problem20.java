@@ -5,7 +5,7 @@ public class problem20 {
         public static void main(String[] args) {
         Scanner sc =  new Scanner(System.in);
         System.out.print("Enter the AGE to check:");
-        int x = sc.nextInt();jkhuhuu
+        int x = sc.nextInt();jkhuhuui
         if(x >=60){
             System.out.println("SENIOR CITIZEN");
         }else if(x >=20){
