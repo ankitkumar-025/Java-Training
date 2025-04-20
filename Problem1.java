@@ -6,7 +6,7 @@ public class Problem1 {
         /*
          * Syntax of if statements:
          * if(boolean exp T or F){
-         * //bodylloooo
+         * //body
          * }
          * else{
          * do this
