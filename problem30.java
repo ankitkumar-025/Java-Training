@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class problem30 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        System.out.print("Enter the last no: ");fdddf
+        System.out.print("Enter the last no: ");
         int n = sc.nextInt();
         factorial(n);
     }
