@@ -2,7 +2,7 @@
     import java.util.Scanner;
 
 public class problem22 {
-    public static void main(String[] args) {gss
+    public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter the 1st No.");
         int x = sc.nextInt();
