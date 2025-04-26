@@ -6,7 +6,7 @@ public class Code {
 }
 class Employee{
     private int id;
-    private String name;jjii
+    private String name;jjiidd
     private double salary;
     public Employee(int id,String name,double salary){
         this.id=id;
