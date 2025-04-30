@@ -3,7 +3,7 @@ public class Pattern1 {
         for (int i = 1; i <= 7; i++) {
             for (int j = 1; j <= 7; j++) {
                 if (i == 4 || j == 4) {
-                    System.out.print("*");kokkk
+                    System.out.print("*");kokkkss
                 } else {
                     System.out.print(" ");
                 }
