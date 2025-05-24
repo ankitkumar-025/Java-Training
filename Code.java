@@ -7,7 +7,7 @@ public class Code {
 class Employee{
     private int id;
     private String name;
-    private double salary;
+    private double salary;ll
     public Employee(int id,String name,double salary){
         this.id=id;
         this.name=name;
